@@ -1,5 +1,0 @@
-This is 2nd File .
-
-Second Line
-
-Third Line 

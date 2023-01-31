@@ -1,5 +1,0 @@
-this is my first file.
-
-this is edit in Github .
-
-this is third line .
