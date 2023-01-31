@@ -1,1 +1,2 @@
 This is first file first line .
+This is second line from Git .
