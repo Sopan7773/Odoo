@@ -1,2 +1,4 @@
 This is first file first line .
 I am writing Third line in remote device .
+This is second line from Git .
+This is fourth line from Remote device .
